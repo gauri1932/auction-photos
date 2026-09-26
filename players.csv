@@ -1,0 +1,101 @@
+sr_no,name,role,mobile,category,image
+1,Sagar Bhutada,All Rounder,8482831433,A+,images/001_sagar_bhutada.jpg
+2,Nikhil Mundada,All Rounder,9503022279,A+,images/002_nikhil_mundada.jpg
+3,Chetan Zawar,All Rounder,9421436579,A+,images/003_chetan_zawar.jpg
+4,Abhay Jaju,All Rounder,9763853067,A+,images/004_abhay_jaju.jpg
+5,Pratik Rathi,All Rounder,9503136050,A+,images/005_pratik_rathi.jpeg
+6,Hitesh Mall,All Rounder,8983201381,A+,images/006_hitesh_mall.jpg
+7,Atul Malpani,All Rounder,8411095777,A+,images/007_atul_malpani.jpg
+8,Shubham Jaju,Batsman,8793121615,A+,images/008_shubham_jaju.jpeg
+9,Suraj Malpani,All Rounder,9890501716,A+,images/009_suraj_malpani.jpg
+10,Gitesh Zanwar,All Rounder,9527014710,A+,images/010_gitesh_zanwar.jpeg
+11,Parth Jaju,All Rounder,7385346857,A,images/011_parth_jaju.jpeg
+12,Manish Biyani,All Rounder,9552563272,A,images/012_manish_biyani.jpeg
+13,Lakhan Rathi,All Rounder,8087426595,A,images/013_lakhan_rathi.jpg
+14,CA Vishal D. Tapadiya,All Rounder,7972116929,A,images/014_ca_vishal_d_tapadiya.jpg
+15,Akshay Jethale,All Rounder,9922991905,A,images/015_akshay_jethale.jpg
+16,Sagar Biyani,All Rounder,9421214883,A,images/016_sagar_biyani.jpeg
+17,Anuj kabra,All Rounder,9819613563,A,images/017_anuj_kabra.jpeg
+18,Shri Bang,All Rounder,8668477491,A,images/018_shri_bang.jpg
+19,Akshay Maheshwari,All Rounder,9834920595,A,images/019_akshay_maheshwari.jpg
+20,Ashish Jaju,All Rounder,7387088345,A,images/020_ashish_jaju.jpeg
+21,Nilesh somani,All Rounder,9881134196,A,images/021_nilesh_somani.jpg
+22,Laxmikant Lohiya,Bowler,9421753335,A,images/022_laxmikant_lohiya.jpg
+23,Piyush Somani,All Rounder,9922435487,A,images/023_piyush_somani.jpg
+24,Harshad Chandak,Bowler,9049993263,A,images/024_harshad_chandak.jpg
+25,Shridhar Laddha,All Rounder,9370874445,A,images/025_shridhar_laddha.jpeg
+26,Ayush Somani,All Rounder,7038014788,A,images/026_ayush_somani.jpeg
+27,Shubham Dudhani,Batsman,9595845552,A,images/027_shubham_dudhani.jpeg
+28,Vedant Maniyar,All Rounder,9975557547,A,images/028_vedant_maniyar.jpeg
+29,Viresh Nyati,All Rounder,9923805955,A,images/029_viresh_nyati.jpeg
+30,Mahesh Jaju,Bowler,9620528343,A,images/030_mahesh_jaju.jpg
+31,Shaunak Kasat,Bowler,9325185533,A,images/031_shaunak_kasat.jpeg
+32,Ashish Baheti,Batsman,8999113246,A,images/032_ashish_baheti.jpeg
+33,Viplove Kabra,All Rounder,9822429510,A,images/033_viplove_kabra.jpeg
+34,Nikhil G Biyani,Batsman,9028920795,A,images/034_nikhil_g_biyani.jpg
+35,Kapil Mall,All Rounder,9923434372,A,images/035_kapil_mall.jpg
+36,Ashish Maheshwari,All Rounder,8552031122,A,images/036_ashish_maheshwari.jpg
+37,Rohit Biyani,All Rounder,9421932146,A,images/037_rohit_biyani.jpg
+38,Varun Bhutada,All Rounder,9405567456,A,images/038_varun_bhutada.jpeg
+39,Atharva Biyani,All Rounder,9175110224,A,images/039_atharva_biyani.jpeg
+40,Darshan Kalantri,All Rounder,8805985191,A,images/040_darshan_kalantri.jpeg
+41,Nikhil Malpani,All Rounder,9561618501,B,images/041_nikhil_malpani.jpeg
+42,Yogesh Biyani,All Rounder,8169533018,B,images/042_yogesh_biyani.jpg
+43,Sanjay Dhoot,All Rounder,9850047728,B,images/043_sanjay_dhoot.jpg
+44,Santosh Chandak,All Rounder,9028881900,B,images/044_santosh_chandak.jpeg
+45,Abhijit Mundada,All Rounder,9922014422,B,images/045_abhijit_mundada.png
+46,Rutvik Panpaliya,All Rounder,8308761477,B,images/046_rutvik_panpaliya.jpeg
+47,Naveen Rander,All Rounder,8805252727,B,images/047_naveen_rander.jpeg
+48,Krishna Kabra,All Rounder,9422727096,B,images/048_krishna_kabra.jpg
+49,Sandesh Dhoot,All Rounder,9890260606,B,images/049_sandesh_dhoot.jpeg
+50,Anand Rathi,Bowler,9890302787,B,images/050_anand_rathi.jpg
+51,Paresh Rathi,All Rounder,9890711148,B,images/051_paresh_rathi.jpeg
+52,Kaushik Rathi,All Rounder,7058311148,B,images/052_kaushik_rathi.jpeg
+53,Chetan Mandhane,Batsman,9960978244,B,images/053_chetan_mandhane.jpeg
+54,Amit Laddha,Bowler,9921871027,B,images/054_amit_laddha.jpg
+55,Sahil Somani,Batsman,9004708740,B,images/055_sahil_somani.jpg
+56,Vijay Mantri,Bowler,7588197518,B,images/056_vijay_mantri.jpg
+57,Manglesh Rathi,All Rounder,8600515477,B,images/057_manglesh_rathi.jpeg
+58,Kanhaiya Tapadia,Batsman,9850828953,B,images/058_kanhaiya_tapadia.jpeg
+59,Chetan Tapadiya,All Rounder,9822014987,B,images/059_chetan_tapadiya.jpg
+60,Kshitij Lohiya,All Rounder,7420840506,B,images/060_kshitij_lohiya.jpg
+61,Manoj chhaparwal,All Rounder,9765116418,C,images/061_manoj_chhaparwal.jpeg
+62,Krishna Lohiya,Bowler,9975114249,C,images/062_krishna_lohiya.jpeg
+63,Shiv Vinod Chandak,All Rounder,7745040808,C,images/063_shiv_vinod_chandak.jpeg
+64,Anket Dodya,All Rounder,9325971784,C,images/064_anket_dodya.jpeg
+65,Vinod Chandak,All Rounder,9284423246,C,images/065_vinod_chandak.jpeg
+66,Nihal Lohiya,All Rounder,7588312878,C,images/066_nihal_lohiya.jpeg
+67,Sai Vinod Chandak,Bowler,8483013615,C,images/067_sai_vinod_chandak.jpeg
+68,Ashish Sarda,Batsman,9822728286,C,images/068_ashish_sarda.jpg
+69,Swapnil Kabra,Batsman,9420106488,C,images/069_swapnil_kabra.jpg
+70,Manmohan Kabra,Batsman,8308989001,C,images/070_manmohan_kabra.jpeg
+71,Neeraj Modani,All Rounder,9822453111,C,images/071_neeraj_modani.jpeg
+72,Surendra Panpaliya,All Rounder,7620379390,C,images/072_surendra_panpaliya.jpeg
+73,Pravin Bhutada,Bowler,9764804609,C,images/073_pravin_bhutada.jpg
+74,Ayush Ravi Randad,All Rounder,9309365600,C,images/074_ayush_ravi_randad.jpeg
+75,Yogesh Daga,Batsman,9823519265,C,images/075_yogesh_daga.png
+76,Chirag Mandhane,Batsman,9561691141,C,images/076_chirag_mandhane.jpeg
+77,Amol Mantri,Batsman,7588676814,C,images/077_amol_mantri.jpeg
+78,Yogesh K Bajaj,All Rounder,9766322384,C,images/078_yogesh_k_bajaj.jpeg
+79,Pushkar Mantri,Bowler,8790960604,C,images/079_pushkar_mantri.jpeg
+80,Sandeep Soni,Bowler,9158007791,C,images/080_sandeep_soni.jpeg
+81,Gourang Bang,Bowler,9503096661,C,images/081_gourang_bang.jpg
+82,Nilesh Bang,All Rounder,9595878811,C,images/082_nilesh_bang.jpg
+83,Amit Tapdiya,All Rounder,8408088884,C,images/083_amit_tapdiya.jpg
+84,Ayush Anand Toshniwal,Batsman,7350021907,C,images/084_ayush_anand_toshniwal.jpeg
+85,Anand Toshniwal,All Rounder,9975979551,C,images/085_anand_toshniwal.jpeg
+86,Sargam Somani,All Rounder,9987536053,C,images/086_sargam_somani.jpg
+87,Atharva Mantri,All Rounder,7588197517,C,images/087_atharva_mantri.jpeg
+88,Nitin Bharadiya,Bowler,9028190606,C,images/088_nitin_bharadiya.jpg
+89,Mayank Bajaj,All Rounder,7385060668,C,images/089_mayank_bajaj.jpeg
+90,Rahul Periwal,All Rounder,9033828876,C,images/090_rahul_periwal.jpeg
+91,Ramnaresh Mantri,Batsman,9890014480,C,images/091_ramnaresh_mantri.jpeg
+92,Rajkumar Kalantri,Batsman,9422414958,C,images/092_rajkumar_kalantri.jpg
+93,Bhargav Rathi,All Rounder,7020158542,C,images/093_bhargav_rathi.jpg
+94,Amol Sikchi,Batsman,9923345252,C,images/094_amol_sikchi.jpg
+95,Murali Lahoti,Bowler,8860084354,C,images/095_murali_lahoti.jpeg
+96,Shubham zawar,All Rounder,9423393734,C,images/096_shubham_zawar.jpeg
+97,Shashank Gandhi,Bowler,8208500965,C,images/097_shashank_gandhi.jpeg
+98,Yogesh Lohiya,All Rounder,9822356330,C,images/098_yogesh_lohiya.jpeg
+99,Yogesh Indani,All Rounder,9511817854,C,images/099_yogesh_indani.jpg
+100,Rahul Bhandari,All Rounder,9822086202,C,images/100_rahul_bhandari.jpg
